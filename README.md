@@ -64,27 +64,6 @@ GNNExplainer is used to identify:
 
 ---
 
-## Project Structure
-
-Explainable_GNN_Cyberattack_Detection/
-│
-├── data/
-│   ├── raw/                    # Original CSV files
-│   │   ├── UNSW_NB15_training-set.csv
-│   │   └── UNSW_NB15_testing-set.csv
-│   └── processed/              # Preprocessed features & graphs
-│
-├── notebooks/
-│   └── Explainable_GNN_Cyberattack_Detection.ipynb
-│
-├── results/
-│   ├── figures/                # Plots & visualizations
-│   └── reports/                # Evaluation reports
-│
-├── requirements.txt
-└── README.md
----
-
 ## How to Run (Google Colab)
 
 1. Open the notebook in Google Colab.
